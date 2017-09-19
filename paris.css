@@ -1,0 +1,56 @@
+h1,h2,h3,h4,h5,h6 {
+font-family: arial;
+    font-size: 17px;
+   margin-bottom: inherit;
+    margin-top: 30px;
+
+}
+
+
+p{
+    margin-top: inherit;
+    margin-bottom: inherit;
+
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #800000;
+    text-decoration: underline;
+
+
+}
+
+
+.left{
+    margin-left: 150px;
+
+    float: left;
+    width: 600px;
+    position: relative;
+
+}
+
+.right{
+
+    float: right;
+    width: 410px;
+    position: relative;
+padd
+
+    border-left: 20px;
+    border-left-color: darkgray;
+}
+.name{
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+div {
+
+    
+    font-size: 13px;
+    font-family: arial, sans-serif;
+}
